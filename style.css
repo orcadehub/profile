@@ -1,0 +1,11 @@
+
+table,tr,td,th{
+    border: 2px red solid;
+    border-collapse: collapse;
+}
+#item1{
+    color: red;
+}
+body{
+    background-color:rgb(207, 223, 100);
+}
